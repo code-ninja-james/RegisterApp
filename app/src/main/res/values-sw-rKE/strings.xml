@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_names">Ingiza Jina</string>
+    <string name="email">Ingiza BaruaPepe</string>
+    <string name="password">Siri</string>
+    <string name="phone">Nambari Ya Simu</string>
+    <string name="dob">Tarehe Ya Kuzaliwa</string>
+    <string name="male">Mume</string>
+    <string name="female">Mke</string>
+    <string name="submit">Weka</string>
+    <string name="agree_to_terms_and_conditions">Kubali</string>
+</resources>
